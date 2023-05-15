@@ -12,7 +12,7 @@
 	<artifactId>mars-sim-network</artifactId>
 	<name>mars-sim-network</name>
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>	
 	<packaging>jar</packaging>
 	<dependencies>
